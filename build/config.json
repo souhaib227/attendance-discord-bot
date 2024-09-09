@@ -1,13 +1,13 @@
 {
-  "token": "YOUR_DISCORD_BOT_TOKEN",
+  "token": "MTI3NDc5OTk5MjAyODI3MDU5Mg.GGksuP.uTcHJb1IftZ1TUqW6xwSSFQ0SdTJdSlNo1WOsk",
   "options": [
     {
-      "name": "القسم_الاول",
-      "admins": ["ايديك", "ايديك"],
-      "image": "رابط_الصورة",
-      "emoji": "الايموجي",
-      "logchannel": "ايدي_روم",
-      "role": "ايدي_رتبة"
+      "name": "Staff",
+      "admins": ["", "ا931964194876686336"],
+      "image": "https://cdn.discordapp.com/attachments/1280940882295783516/1280975836132016168/dzvillage.png?ex=66da0936&is=66d8b7b6&hm=570eb9e54ba9e5b03370fc21eca464bbf6b458572bd91ef5854a7d03d2f72670&",
+      "emoji": "ا1271064780668538890",
+      "logchannel": "1274797954565410847",
+      "role": "ا1260947061046771814"
     },
     {
       "name": "القسم_الاول",
